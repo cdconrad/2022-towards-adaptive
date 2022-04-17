@@ -5,6 +5,6 @@ This file depends on a repository of scripts used for our 2018 study Neurophysio
 
 For additional context and more information about the original study check out the original publication and the supporting notebooks:
 
-Conrad, C. and Newman, A. (2021). Measuring mind wandering during online lectures assessed with EEG. Frontiers in Human Neuroscience, 14, 10.3389/fnhum.2021.697532.
+> Conrad, C. and Newman, A. (2021). Measuring mind wandering during online lectures assessed with EEG. Frontiers in Human Neuroscience, 14, 10.3389/fnhum.2021.697532.
 
 Notebooks: https://github.com/cdconrad/aalis
